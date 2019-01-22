@@ -1,3 +1,3 @@
 # hello-world
 Hi humans
-Just to make a repository
+My Name is Sepideh Shadmehr. I'm a fullstack developer.
